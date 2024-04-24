@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Red Dead Redemption 2</h1>)
+        <h1>Sabrina Chaussard Osmo, eu te amo princesa</h1>)
 }
 
 export default Home;
